@@ -9,6 +9,10 @@ I had Arduino Nano, cable and bag of Lego bricks laying around. Isn't it enough?
 
 # How to build
 
+## Lego part
+
+![Switch](switch.jpg)
+
 ## Linux part
 
 Build as any CMake based project:
